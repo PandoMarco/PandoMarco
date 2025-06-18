@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PandoMarco
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning it (Lol)
+- 👀 I’m interested in c++ development
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
